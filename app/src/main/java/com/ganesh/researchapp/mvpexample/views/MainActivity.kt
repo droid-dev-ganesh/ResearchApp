@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity(), MainViewInterface {
 
     override fun hideProgress() {
         progressBar.visibility = View.INVISIBLE
+        textView.visibility = View.VISIBLE
     }
 
     override fun setReminder(reminder: ReminderModel) {
