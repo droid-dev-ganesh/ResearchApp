@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ResearchApp</string>
+
+    <string-array name="reminder_array">
+        <item> 7 AM - Read News TOI</item>
+        <item> 9 AM - Internal Meeting on New Project Architecture</item>
+        <item> 12 PM - Principal Component Analysis Deadline</item>
+        <item> 3 PM - Client Meeting</item>
+        <item> 6 PM - Code Review</item>
+        <item> 7 PM - Update RedMine</item>
+    </string-array>
+</resources>
